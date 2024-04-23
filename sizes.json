@@ -1,0 +1,759 @@
+{
+  "sizes": [
+    {
+      "platform": "Facebook",
+      "kind": "profile",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 320,
+          "height": 320
+        },
+        {
+          "kind": "minimum",
+          "width": 180,
+          "height": 60
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        },
+        {
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "platform": "Facebook",
+      "kind": "cover",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 851,
+          "height": 315
+        },
+        {
+          "kind": "minimum",
+          "width": 400,
+          "height": 150
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 100000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 100000
+        }
+      ]
+    },
+    {
+      "platform": "Facebook",
+      "kind": "shared_image_timeline",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 800000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 800000000
+        },
+        {
+          "mime_type": "image/gif",
+          "max_size": 800000000
+        }
+      ]
+    },
+    {
+      "platform": "Facebook",
+      "kind": "shared_image_newsfeed",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 800000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 800000000
+        },
+        {
+          "mime_type": "image/gif",
+          "max_size": 800000000
+        }
+      ]
+    },
+    {
+      "platform": "Facebook",
+      "kind": "shared_link_timeline",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "kind": "minimum",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 800000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 800000000
+        },
+        {
+          "mime_type": "image/gif",
+          "max_size": 800000000
+        }
+      ]
+    },
+    {
+      "platform": "Facebook",
+      "kind": "shared_link_newsfeed",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "kind": "minimum",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 800000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 800000000
+        },
+        {
+          "mime_type": "image/gif",
+          "max_size": 800000000
+        }
+      ]
+    },
+    {
+      "platform": "Facebook",
+      "kind": "event_image",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1920,
+          "height": 1005
+        },
+        {
+          "kind": "minimum",
+          "width": 400,
+          "height": 150
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        },
+        {
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "platform": "X/Twitter",
+      "kind": "profile",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "kind": "minimum",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 500000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 500000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 500000000
+        }
+      ]
+    },
+    {
+      "platform": "X/Twitter",
+      "kind": "banner",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1500,
+          "height": 500
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 500000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 500000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 500000000
+        }
+      ]
+    },
+    {
+      "platform": "X/Twitter",
+      "kind": "shared_link",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 600,
+          "height": 335
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 500000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 500000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 500000000
+        }
+      ]
+    },
+    {
+      "platform": "Instragram",
+      "kind": "profile",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 110,
+          "height": 110
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "platform": "Instragram",
+      "kind": "thumbnail",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 161,
+          "height": 161
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "platform": "Instragram",
+      "kind": "picture_square",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "platform": "Instragram",
+      "kind": "picture_portrait",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "platform": "Instragram",
+      "kind": "picture_stories",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "platform": "TikTok",
+      "kind": "profile",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        },
+        {
+          "mime_type": "image/png"
+        },
+        {
+          "mime_type": "image/gif"
+        }
+      ]
+    },
+    {
+      "platform": "Linkedin",
+      "kind": "profile",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 300000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 300000000
+        }
+      ]
+    },
+    {
+      "platform": "Linkedin",
+      "kind": "banner",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1128,
+          "height": 191
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 300000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 300000000
+        }
+      ]
+    },
+    {
+      "platform": "Linkedin",
+      "kind": "company_logo",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 300000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 300000000
+        }
+      ]
+    },
+    {
+      "platform": "Linkedin",
+      "kind": "company_main",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1128,
+          "height": 191
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 300000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 300000000
+        }
+      ]
+    },
+    {
+      "platform": "Linkedin",
+      "kind": "shared_link",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1200,
+          "height": 627
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        },
+        {
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "platform": "Linkedin",
+      "kind": "shared_image",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1200,
+          "height": 627
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        },
+        {
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "platform": "Linkedin",
+      "kind": "life_tab_main",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1128,
+          "height": 376
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 200000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 200000000
+        }
+      ]
+    },
+    {
+      "platform": "Linkedin",
+      "kind": "life_tab_company",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 900,
+          "height": 600
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg"
+        },
+        {
+          "mime_type": "image/png"
+        }
+      ]
+    },
+    {
+      "platform": "Pinterest",
+      "kind": "profile",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 165,
+          "height": 165
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 1000000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 1000000000
+        }
+      ]
+    },
+    {
+      "platform": "Pinterest",
+      "kind": "pins_main_page",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 238,
+          "height": 159
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 1000000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 1000000000
+        },
+        {
+          "mime_type": "image/gif",
+          "max_size": 1000000000
+        }
+      ]
+    },
+    {
+      "platform": "Pinterest",
+      "kind": "pins_board",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 238,
+          "height": 159
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 1000000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 1000000000
+        },
+        {
+          "mime_type": "image/gif",
+          "max_size": 1000000000
+        }
+      ]
+    },
+    {
+      "platform": "YouTube",
+      "kind": "channel_profile",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/png"
+        },
+        {
+          "mime_type": "image/gif"
+        }
+      ]
+    },
+    {
+      "platform": "YouTube",
+      "kind": "channel_cover",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 2560,
+          "height": 1440
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/png"
+        },
+        {
+          "mime_type": "image/gif"
+        }
+      ]
+    },
+    {
+      "platform": "YouTube",
+      "kind": "video_upload",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/png"
+        },
+        {
+          "mime_type": "image/gif"
+        }
+      ]
+    },
+    {
+      "platform": "Google My Business",
+      "kind": "logo",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 720,
+          "height": 720
+        },
+        {
+          "kind": "minimum",
+          "width": 250,
+          "height": 250
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 500000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 500000000
+        }
+      ]
+    },
+    {
+      "platform": "Google My Business",
+      "kind": "cover",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 720,
+          "height": 720
+        },
+        {
+          "kind": "minimum",
+          "width": 250,
+          "height": 250
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 500000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 500000000
+        }
+      ]
+    },
+    {
+      "platform": "Google My Business",
+      "kind": "business_logo",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 720,
+          "height": 720
+        },
+        {
+          "kind": "minimum",
+          "width": 250,
+          "height": 250
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 500000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 500000000
+        }
+      ]
+    },
+    {
+      "platform": "Thread",
+      "kind": "post",
+      "dimensions": [
+        {
+          "kind": "recommended",
+          "width": 1070,
+          "height": 1424
+        }
+      ],
+      "formats": [
+        {
+          "mime_type": "image/jpeg",
+          "max_size": 500000000
+        },
+        {
+          "mime_type": "image/png",
+          "max_size": 500000000
+        }
+      ]
+    }
+  ]
+}
