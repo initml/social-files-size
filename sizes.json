@@ -265,7 +265,7 @@
       ]
     },
     {
-      "platform": "Instragram",
+      "platform": "Instagram",
       "kind": "profile",
       "dimensions": [
         {
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "platform": "Instragram",
+      "platform": "Instagram",
       "kind": "thumbnail",
       "dimensions": [
         {
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "platform": "Instragram",
+      "platform": "Instagram",
       "kind": "picture_square",
       "dimensions": [
         {
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "platform": "Instragram",
+      "platform": "Instagram",
       "kind": "picture_portrait",
       "dimensions": [
         {
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "platform": "Instragram",
+      "platform": "Instagram",
       "kind": "picture_stories",
       "dimensions": [
         {
