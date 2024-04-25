@@ -1,0 +1,27 @@
+{
+  "name": "@open-initml/social-media-size",
+  "description": "Social media size JS tooling",
+  "private": false,
+  "main": "dist/index.js",
+  "files": [
+    "js",
+    "package.json",
+    "package-lock.json"
+  ],
+  "author": {
+    "email": "igor@initml.co",
+    "name": "Igor ESCHALIER"
+  },
+  "scripts": {
+    "build": "tsup index.ts",
+    "build:analyze": "npm run build -- --metafile",
+    "dev": "npm run build -- --watch --dts"
+  },
+  "dependencies": {
+    "zod": "^3.23.4"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}

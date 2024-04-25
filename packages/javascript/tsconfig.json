@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "resolveJsonModule": true,
+    "declaration": true,
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "allowJs": true,
+    "outDir": "dist"
+  },
+  "include": ["index.ts"]
+}
