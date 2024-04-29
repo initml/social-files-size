@@ -1,11 +1,11 @@
 {
-  "name": "@open-initml/social-media-size",
-  "version": "0.0.1",
+  "name": "@clipdrop/social-media-size",
+  "version": "0.0.2",
   "description": "Social media size JS tooling",
   "private": false,
   "main": "dist/index.js",
   "files": [
-    "js",
+    "dist",
     "package.json",
     "package-lock.json"
   ],
