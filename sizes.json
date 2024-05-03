@@ -15,6 +15,15 @@
           "height": 60
         }
       ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
+        }
+      ],
       "formats": [
         {
           "mime_type": "image/jpeg"
@@ -37,6 +46,15 @@
           "kind": "minimum",
           "width": 400,
           "height": 150
+        }
+      ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.13125,
+          "right": 0.94556,
+          "bottom": 0.13125,
+          "left": 0.94556
         }
       ],
       "formats": [
@@ -199,6 +217,15 @@
           "height": 200
         }
       ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
+        }
+      ],
       "formats": [
         {
           "mime_type": "image/jpeg",
@@ -222,6 +249,15 @@
           "kind": "recommended",
           "width": 1500,
           "height": 500
+        }
+      ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.15,
+          "bottom": 0.1,
+          "left": 0.15
         }
       ],
       "formats": [
@@ -272,6 +308,15 @@
           "kind": "recommended",
           "width": 110,
           "height": 110
+        }
+      ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
         }
       ],
       "formats": [
@@ -338,6 +383,15 @@
           "height": 1920
         }
       ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0,
+          "right": 0.10971,
+          "bottom": 0,
+          "left": 0.10971
+        }
+      ],
       "formats": [
         {
           "mime_type": "image/jpeg"
@@ -352,6 +406,15 @@
           "kind": "recommended",
           "width": 200,
           "height": 200
+        }
+      ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
         }
       ],
       "formats": [
@@ -376,6 +439,15 @@
           "height": 400
         }
       ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
+        }
+      ],
       "formats": [
         {
           "mime_type": "image/jpeg",
@@ -395,6 +467,15 @@
           "kind": "recommended",
           "width": 1128,
           "height": 191
+        }
+      ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0,
+          "right": 0.15602,
+          "bottom": 0,
+          "left": 0.31508
         }
       ],
       "formats": [
@@ -418,6 +499,15 @@
           "height": 400
         }
       ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
+        }
+      ],
       "formats": [
         {
           "mime_type": "image/jpeg",
@@ -437,6 +527,15 @@
           "kind": "recommended",
           "width": 1128,
           "height": 191
+        }
+      ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0,
+          "right": 0.15602,
+          "bottom": 0,
+          "left": 0.31508
         }
       ],
       "formats": [
@@ -538,6 +637,15 @@
           "height": 165
         }
       ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
+        }
+      ],
       "formats": [
         {
           "mime_type": "image/jpeg",
@@ -609,6 +717,15 @@
           "height": 800
         }
       ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
+        }
+      ],
       "formats": [
         {
           "mime_type": "image/png"
@@ -628,6 +745,15 @@
           "height": 1440
         }
       ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.35278,
+          "right": 0.19336,
+          "bottom": 0.35278,
+          "left": 0.19336
+        }
+      ],
       "formats": [
         {
           "mime_type": "image/png"
@@ -645,6 +771,15 @@
           "kind": "recommended",
           "width": 1280,
           "height": 720
+        }
+      ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.11406,
+          "bottom": 0.13889,
+          "left": 0.1
         }
       ],
       "formats": [
@@ -669,6 +804,15 @@
           "kind": "minimum",
           "width": 250,
           "height": 250
+        }
+      ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
         }
       ],
       "formats": [
@@ -697,6 +841,15 @@
           "height": 250
         }
       ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
+        }
+      ],
       "formats": [
         {
           "mime_type": "image/jpeg",
@@ -721,6 +874,15 @@
           "kind": "minimum",
           "width": 250,
           "height": 250
+        }
+      ],
+      "margins": [
+        {
+          "kind": "recommended",
+          "top": 0.1,
+          "right": 0.1,
+          "bottom": 0.1,
+          "left": 0.1
         }
       ],
       "formats": [
