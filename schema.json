@@ -33,6 +33,44 @@
               "required": ["kind", "width", "height"]
             }
           },
+          "margins": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "properties": {
+                "kind": {
+                  "type": "string",
+                  "enum": ["recommended"]
+                },
+                "top": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 1,
+                  "description": "Top margin in percent of the height (0=0%, 1=100%)"
+                },
+                "right": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 1,
+                  "description": "Right margin in percent of the width (0=0%, 1=100%)"
+                },
+                "bottom": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 1,
+                  "description": "Bottom margin in percent of the height (0=0%, 1=100%)"
+                },
+                "left": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 1,
+                  "description": "Left margin in percent of the width (0=0%, 1=100%)"
+                }
+              },
+              "required": ["kind", "top", "right", "bottom", "left"]
+            }
+          },
           "formats": {
             "type": "array",
             "minItems": 1,
