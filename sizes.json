@@ -343,7 +343,7 @@
     },
     {
       "platform": "Instagram",
-      "kind": "picture_square",
+      "kind": "square",
       "dimensions": [
         {
           "kind": "recommended",
@@ -359,7 +359,7 @@
     },
     {
       "platform": "Instagram",
-      "kind": "picture_portrait",
+      "kind": "portrait",
       "dimensions": [
         {
           "kind": "recommended",
@@ -375,7 +375,7 @@
     },
     {
       "platform": "Instagram",
-      "kind": "picture_stories",
+      "kind": "story",
       "dimensions": [
         {
           "kind": "recommended",
