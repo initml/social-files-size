@@ -94,9 +94,15 @@ function percentMarginToPixel(size, margin) {
   });
 }
 function sortFormatByPreference(size, mimeTypePreferences) {
-  return [...size.formats].sort(
-    (a, b) => mimeTypePreferences.indexOf(a.mime_type) - mimeTypePreferences.indexOf(b.mime_type)
-  );
+  return [...size.formats].sort((a, b) => {
+    const aIndex = mimeTypePreferences.indexOf(a.mime_type);
+    const bIndex = mimeTypePreferences.indexOf(b.mime_type);
+    if (aIndex === -1)
+      return 1;
+    if (bIndex === -1)
+      return -1;
+    return aIndex - bIndex;
+  });
 }
 // Annotate the CommonJS export names for ESM import in node:
 0 && (module.exports = {
