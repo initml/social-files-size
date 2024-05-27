@@ -1,6 +1,6 @@
 {
   "name": "@clipdrop/social-media-size",
-  "version": "0.0.22",
+  "version": "0.0.24",
   "description": "Social media size JS tooling",
   "private": false,
   "main": "dist/index.js",
